@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">githubrepos</string>
+    <string name="repo_name">repoName</string>
+    <string name="stars_count">0000</string>
+    <string name="repo_owner">google</string>
+    <string name="repo_description"> description description description descriptionnnnnnnnnnnnnnnnnn</string>
+
+
 </resources>
